@@ -3,7 +3,9 @@
 <p align="center">
 <br>
 <em><font size="+1">The beginning of everything</font></em>
-<em><font size="+1">复杂且多元的世界</font></em>
+  <br>
+<br>
+<em><font size="+1">一个在复杂且多元的世界中诞生的理想主义者</font></em>
 <br>
 <br>
 <br>
